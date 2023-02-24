@@ -20,7 +20,7 @@ title: "Images"
 
 ![](images/AFM%20on%20a%20cell.png){fig-alt="Cartoon to show how AFM is conducted on a cell" width="350"}
 
-~*Cartoon\ schematic\ to\ show\ how\ AFM\ is\ conducted\ on\ a\ cell,\ with\ applicable\ labels\ for\ the\ Hertz\ model.*~ \
+~*Cartoon\ schematic\ to\ show\ how\ AFM\ indentation\ is\ conducted\ on\ a\ cell,\ with\ applicable\ labels\ for\ the\ Hertz\ model.*~ \
 \
 \
 \
