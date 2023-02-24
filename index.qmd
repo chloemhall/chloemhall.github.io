@@ -3,7 +3,7 @@ title: "Chloe M. Hall, Ph.D."
 about:
   template: jolla
   image: IMG_3650.jpg
-  image-width: 12cm
+  image-width: 9cm
   image-shape: round
   links:
     - icon: twitter
