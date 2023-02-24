@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Further info",
     "section": "",
-    "text": "Email: hallchlo@uni-mainz.de\n\nFor an updated list of my publications, please head over to my Google Scholar page."
+    "text": "Email: hallchlo@uni-mainz.de\n\nFor an updated list of my publications, please head over to my Google Scholar page.\nMy github page contains public repositories with R code for making Gantt charts, or renaming data files for blind analysis."
   },
   {
     "objectID": "index.html",
@@ -25,6 +25,6 @@
     "href": "images.html",
     "title": "Images",
     "section": "",
-    "text": "Here are some scientific illustrations I’ve created, in Inkscape. Feel free to use them, with credit.\n\n\n\n\n\nMechanoreceptor ion channel opens when cell membrane is deformed.\n\n\n\n\n\n\n\n\n\nBasic cartoon schematic of Alzheimer’s disease neuropathology."
+    "text": "Here are some scientific illustrations I’ve created, in Inkscape. Feel free to use them, with credit.\n\n\n\n\n\nMechanoreceptor ion channel opens when cell membrane is deformed.\n\n\n\n\n\n\n\n\n\nBasic cartoon schematic of Alzheimer’s disease neuropathology.\n\n\n\n\nCartoon schematic to show how AFM is conducted on a cell, with applicable labels for the Hertz model.\n\n\n\n\n\nNot very scientifically accurate, but very cute microglia in various states of activation.\n\n\n\n\n\nCartoon to show basic traction force microscopy experiment, with fluorescent beads embedded in a gel, with an example cell on top."
   }
 ]

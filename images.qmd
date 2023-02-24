@@ -2,9 +2,9 @@
 title: "Images"
 ---
 
-Here are some scientific illustrations I've created, in Inkscape. Feel free to use them, with credit.
+#### Here are some scientific illustrations I've created, in Inkscape. Feel free to use them, with credit. 
 
-![ ](images/mechanotransduction.png){fig-alt="cartoon image of a mechanoreceptive ion channel in closed and open conformation" fig-align="center"}
+![](images/mechanotransduction.png){fig-alt="cartoon image of a mechanoreceptive ion channel in closed and open conformation" fig-align="center"}
 
 ~*Mechanoreceptor\ ion\ channel\ opens\ when\ cell\ membrane\ is\ deformed.*~
 
@@ -14,4 +14,25 @@ Here are some scientific illustrations I've created, in Inkscape. Feel free to u
 
 ![](images/AD%20schematic2019.png){fig-alt="A basic cartoon schematic to show the pathology of Alzheimer's disease. Specifically, the inflammatory glial response includes activated microglia and astrocytes. The neurofibrillary tau tangles are interneuronal, and the amyloid plaques, surrounded by diffuse halos of amyloid-Beta, are extracellular." fig-align="center"}
 
-^*Basic\ cartoon\ schematic\ of\ Alzheimer's\ disease\ neuropathology.*^
+^*Basic\ cartoon\ schematic\ of\ Alzheimer's\ disease\ neuropathology.*^ \
+\
+\
+
+![](images/AFM%20on%20a%20cell.png){fig-alt="Cartoon to show how AFM is conducted on a cell" width="350"}
+
+~*Cartoon\ schematic\ to\ show\ how\ AFM\ is\ conducted\ on\ a\ cell,\ with\ applicable\ labels\ for\ the\ Hertz\ model.*~ \
+\
+\
+\
+
+![](images/microglia%20schematic%20cartoon-01.png){fig-alt="cartoon microglia"}
+
+~*Not\ very\ scientifically\ accurate,\ but\ very\ cute\ microglia\ in\ various\ states\ of\ activation.*~
+
+\
+\
+\
+\
+![](images/TFM.png){width="278"}
+
+~*Cartoon\ to\ show\ basic\ traction\ force\ microscopy\ experiment,\ with\ fluorescent\ beads\ embedded\ in\ a\ gel,\ with\ an\ example\ cell\ on\ top.*~
