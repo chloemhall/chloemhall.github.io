@@ -2,7 +2,7 @@
 title: "Images"
 ---
 
-#### Here are some scientific illustrations I've created, in Inkscape. Feel free to use them, with credit. 
+#### Here are some scientific illustrations I've created, in Inkscape. Feel free to use them, but please credit my name. 
 
 ![](images/mechanotransduction.png){fig-alt="cartoon image of a mechanoreceptive ion channel in closed and open conformation" fig-align="center"}
 
