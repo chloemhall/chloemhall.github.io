@@ -1,9 +1,9 @@
 ---
 title: "Chloe M. Hall, Ph.D."
 about:
-  template: solana
+  template: jolla
   image: IMG_3650.jpg
-  image-width: 10cm
+  image-width: 12cm
   image-shape: round
   links:
     - icon: twitter
