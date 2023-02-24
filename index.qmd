@@ -4,7 +4,7 @@ about:
   template: solana
   image: IMG_3650.jpg
   image-width: 10cm
-  image-shape: rounded
+  image-shape: round
   links:
     - icon: twitter
       text: Twitter
