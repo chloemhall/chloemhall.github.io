@@ -1,11 +1,25 @@
 ---
-title: "chloemhall.github.io"
+title: "Chloe M. Hall, Ph.D."
+about:
+  template: solana
+  image: IMG_3650.jpg
+  image-width: 10cm
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/neuro_chlo
+    - icon: github
+      text: Github
+      href: https://github.com/chloemhall
 ---
 
-This is a Quarto website.
+### About 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an interdisciplinary scientist, interested in the mechanobiology of the brain, particularly in neurodegenerative diseases and traumatic brain injury.
 
-```{r}
-1 + 1
-```
+I am currently a postdoc at the medical university at JGU-Mainz, working with Thomas Mittmann. I am now working to understand the role of mechanosensation following traumatic brain injury.
+
+### Background
+
+I started my research career working on synaptic transmission in mouse models of Alzheimer's disease, also investigating the glial response (2015-2017, UCL). For my PhD, I moved into the field of mechanobiology, looking at physical brain changes in healthy ageing and Alzheimer's disease, using atomic force microscopy (2017-2021, UCL & University of Brighton).

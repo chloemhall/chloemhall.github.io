@@ -1,0 +1,17 @@
+---
+title: "Images"
+---
+
+Here are some scientific illustrations I've created, in Inkscape. Feel free to use them, with credit.
+
+![ ](images/mechanotransduction.png){fig-alt="cartoon image of a mechanoreceptive ion channel in closed and open conformation" fig-align="center"}
+
+~*Mechanoreceptor\ ion\ channel\ opens\ when\ cell\ membrane\ is\ deformed.*~
+
+\
+\
+\
+
+![](images/AD%20schematic2019.png){fig-alt="A basic cartoon schematic to show the pathology of Alzheimer's disease. Specifically, the inflammatory glial response includes activated microglia and astrocytes. The neurofibrillary tau tangles are interneuronal, and the amyloid plaques, surrounded by diffuse halos of amyloid-Beta, are extracellular." fig-align="center"}
+
+^*Basic\ cartoon\ schematic\ of\ Alzheimer's\ disease\ neuropathology.*^

@@ -2,16 +2,18 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "chloemhall.github.io"
+  title: "Chloe M. Hall, Ph.D."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      #- about.qmd
+      - contact.qmd
+      - images.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 

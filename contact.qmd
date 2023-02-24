@@ -1,0 +1,19 @@
+---
+title: "Further info"
+about:
+     links:
+         - icon: twitter
+           text: Twitter
+           href: https://twitter.com/neuro_chlo
+         - icon: github
+           text: Github
+           href: https://github.com/chloemhall
+---
+
+<p>Email: hallch<span class="spamprotection">lo</span>@uni-mainz.de
+
+</p>
+
+For an updated list of my publications, please head over to my [Google Scholar](https://scholar.google.co.uk/citations?user=CB_6AdcAAAAJ&hl=en) page.
+
+My github page contains repositories with R code for [making Gantt charts](https://github.com/chloemhall/Gantt-Chart), or [renaming data files for blind analysis](https://github.com/chloemhall/Blinding-data).

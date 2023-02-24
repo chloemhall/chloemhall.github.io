@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Further info",
+    "section": "",
+    "text": "Email: hallchlo@uni-mainz.de\n\nFor an updated list of my publications, please head over to my Google Scholar page."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "chloemhall.github.io",
+    "title": "Chloe M. Hall, Ph.D.",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "About\nI am an interdisciplinary scientist, interested in the mechanobiology of the brain, particularly in neurodegenerative diseases and traumatic brain injury.\nI am currently a postdoc at the medical university at JGU-Mainz, working with Thomas Mittmann. I am now working to understand the role of mechanosensation following traumatic brain injury.\n\n\nBackground\nI started my research career working on synaptic transmission in mouse models of Alzheimer’s disease, also investigating the glial response (2015-2017, UCL). For my PhD, I moved into the field of mechanobiology, looking at physical brain changes in healthy ageing and Alzheimer’s disease, using atomic force microscopy (2017-2021, UCL & University of Brighton)."
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "images.html",
+    "href": "images.html",
+    "title": "Images",
+    "section": "",
+    "text": "Here are some scientific illustrations I’ve created, in Inkscape. Feel free to use them, with credit.\n\n\n\n\n\nMechanoreceptor ion channel opens when cell membrane is deformed.\n\n\n\n\n\n\n\n\n\nBasic cartoon schematic of Alzheimer’s disease neuropathology."
   }
 ]
