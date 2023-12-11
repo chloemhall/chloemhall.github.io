@@ -6,15 +6,15 @@ about:
   image-width: 10cm
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/neuro_chlo
+    - icon: bluesky
+      text: BlueSky
+      href: https://bsky.app/profile/neuro-chlo.bsky.social
     - icon: github
       text: Github
       href: https://github.com/chloemhall
 ---
 
-### About 
+### About
 
 I am an interdisciplinary scientist, interested in the mechanobiology of the brain, particularly in neurodegenerative diseases and traumatic brain injury.
 

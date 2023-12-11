@@ -2,10 +2,14 @@
 title: "Further info"
 ---
 
-<p>Email: hallch<span class="spamprotection">lo</span>@uni-mainz.de
+<p>Email: hallch[lo]{.spamprotection}@uni-mainz.de</p>
 
-</p>
+First author publications include:
 
-For an updated list of my publications, please head over to my [Google Scholar](https://scholar.google.co.uk/citations?user=CB_6AdcAAAAJ&hl=en) page.
+-   [Mechanobiology of the Brain in Ageing and Alzheimer's Disease](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.14766)
+
+-   [Hippocampus of the APP^NL--G--F^ mouse model of Alzheimer\'s disease exhibits region-specific tissue softening concomitant with elevated astrogliosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10398960/)
+
+For a full updated list of my publications, please head over to my [Google Scholar](https://scholar.google.co.uk/citations?user=CB_6AdcAAAAJ&hl=en) page.
 
 My github page contains public repositories with R code for [making Gantt charts](https://github.com/chloemhall/Gantt-Chart), or [renaming data files for blind analysis](https://github.com/chloemhall/Blinding-data).
